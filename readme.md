@@ -25,7 +25,7 @@ A simple web application built with Flask backend and Nginx frontend, containeri
 
 ```bash
 git clone https://github.com/wkokft/docker-app.git
-cd your-repo-name
+cd docker-app
 ```
 
 ### 2. Build and Run with Docker Compose
