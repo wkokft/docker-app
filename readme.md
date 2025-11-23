@@ -10,10 +10,10 @@ A simple web application built with Flask backend and Nginx frontend, containeri
 ├── backend/
 │   ├── Dockerfile
 │   ├── requirements.txt
-│   └── app.py (or your main application file)
+│   └── app.py 
 ├── frontend/
 │   ├── nginx.conf
-│   └── index.html (and other frontend files)
+│   └── index.html
 ├── logs/
 ├── docker-compose.yml
 └── README.md
