@@ -66,24 +66,6 @@ docker compose up -d
 docker compose down
 ```
 
-### Viewing Logs
-
-To view application logs:
-```bash
-# View all logs
-docker compose logs
-
-# View backend logs only
-docker compose logs backend
-
-# View frontend logs only
-docker compose logs frontend
-
-# Follow log output
-docker compose logs -f
-```
-
-
 ### Rebuilding After Changes
 
 If you make changes to the code:
