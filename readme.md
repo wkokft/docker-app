@@ -24,7 +24,7 @@ A simple web application built with Flask backend and Nginx frontend, containeri
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/wkokft/docker-app.git
 cd your-repo-name
 ```
 
